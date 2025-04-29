@@ -1,16 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://321Fontsize.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Tue, 29 Apr 2025 08:21:36 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>计算+物理 期刊</title><link>https://321Fontsize.github.io/post/ji-suan-%2B-wu-li-%20-qi-kan.html</link><description># 期刊/杂志
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Tue, 29 Apr 2025 08:53:14 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>【个人简介】Fontsize's Page</title><link>https://321Fontsize.github.io/post/%E3%80%90-ge-ren-jian-jie-%E3%80%91Fontsize%27s%20Page.html</link><description>My primary interests lie in:
 
-- [JCP]([Journal of Computational Physics | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/journal-of-computational-physics)): Journal of Computational，计算物理杂志
+- Physics-informed machine learning
+- ...。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/%E3%80%90-ge-ren-jian-jie-%E3%80%91Fontsize%27s%20Page.html</guid><pubDate>Tue, 29 Apr 2025 08:49:33 +0000</pubDate></item><item><title>PINNs论文</title><link>https://321Fontsize.github.io/post/PINNs-lun-wen.html</link><description>111。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/PINNs-lun-wen.html</guid><pubDate>Tue, 29 Apr 2025 08:43:34 +0000</pubDate></item><item><title>计算+物理 期刊</title><link>https://321Fontsize.github.io/post/ji-suan-%2B-wu-li-%20-qi-kan.html</link><description># 期刊/杂志
+
+- :one:[JCP]([Journal of Computational Physics | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/journal-of-computational-physics)): Journal of Computational，计算物理杂志 
   - 激波捕捉方法中的TVD、ENO、WENO格式
+  - 迎风格式通量计算方法中的Roe, van Leer, AUSM系列格式
+  - 非结构网格上的高精度算法DG、SV、SD等
+  - 两相流VOF
 
-- [SIAM]((https://www.siam.org/)): Society for Industrial and Applied Mathematics，工业与应用数学学会
+- :one:[CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering): Computer Methods in Applied Mechanics and Engineering，应用力学与工程中的计算机方法
+- :question:[SIAM]((https://www.siam.org/)): Society for Industrial and Applied Mathematics，工业与应用数学学会
   - [SISC](https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/): SIAM Journal on Scientific Computing
-- [JFM](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics): Journal of Fluid Mechanics，流体力学杂志
+- :question:[Journal of Scientific Computing](https://link.springer.com/journal/10915)：科学计算杂志
+- :question:[JFM](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics): Journal of Fluid Mechanics，流体力学杂志
   - JFM和Physics of fluids更侧重流动机理，计算类的文章少
-- PR系列是指Physical Review系列的期刊，这是美国物理学会（American Physical Society, APS）出版的一系列物理学学术期刊
+- :question:PR系列是指Physical Review系列的期刊，这是美国物理学会（American Physical Society, APS）出版的一系列物理学学术期刊
   - [PRL](https://journals.aps.org/prl/): Physics Review Letters
-- [CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering): Computer Methods in Applied Mechanics and Engineering，应用力学与工程中的计算机方法
 
 # 知乎评论
 
