@@ -17,6 +17,8 @@
 
 # 已看论文
 
+### 本科毕设论文阅读
+
 这部分论文主要是在完成本科毕设的过程中阅读的。
 
 - **Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations**, *M. Raissi, P. Perdikaris, G. E. Karniadakis*, Journal of Computational Physics, 2019. [[paper](https://www.sciencedirect.com/science/article/pii/S0021999118307125)] :mag:PINNs初始文章
