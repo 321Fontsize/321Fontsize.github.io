@@ -1,5 +1,3 @@
-# 未看论文
-
 ### AI4Science
 
 - Wang H, Fu T, Du Y, Gao W, Huang K, Liu Z, Chandak P, Liu S, Van Katwyk P, Deac A, Anandkumar A, Bergen K, Gomes CP, Ho S, Kohli P, Lasenby J, Leskovec J, Liu TY, Manrai A, Marks D, Ramsundar B, Song L, Sun J, Tang J, Velickovic P, Welling M, Zhang L, Coley CW, Bengio Y, Zitnik M. **Scientific discovery in the age of artificial intelligence**. Nature 2023, 620(7972): 47-60. :mag:【AI4Science】科学发现综述
@@ -14,8 +12,6 @@
 
 - Lu L, Jin P, Pang G, Zhang Z, Karniadakis GE. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators**. Nature Machine Intelligence 2021, 3(3): 218-229. :mag:【DeepONet】结构
 - Li Z, Kovachki N, Azizzadenesheli K, Liu B, Bhattacharya K, Stuart A, Anandkumar A. **Fourier neural operator for parametric partial differential equations**. arXiv preprint arXiv:201008895 2020. :mag:傅里叶神经算子【FNO】结构
-
-# 已看论文
 
 ### 本科毕设论文阅读
 

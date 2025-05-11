@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Tue, 29 Apr 2025 10:02:12 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>【科研能力】阅读&amp;管理论文</title><link>https://321Fontsize.github.io/post/%E3%80%90-ke-yan-neng-li-%E3%80%91-yue-du-%26-guan-li-lun-wen.html</link><description># 阅读
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Sun, 11 May 2025 08:23:41 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>【科研能力】阅读&amp;管理论文</title><link>https://321Fontsize.github.io/post/%E3%80%90-ke-yan-neng-li-%E3%80%91-yue-du-%26-guan-li-lun-wen.html</link><description># 阅读
 
 # 管理
 
@@ -12,9 +12,7 @@ My primary interests lie in:
 - Physics-informed machine learning
 - ...
 
-。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/%E3%80%90-ge-ren-jian-jie-%E3%80%91Fontsize%27s%20Page.html</guid><pubDate>Tue, 29 Apr 2025 08:49:33 +0000</pubDate></item><item><title>PINNs论文</title><link>https://321Fontsize.github.io/post/PINNs-lun-wen.html</link><description># 未看论文
-
-### AI4Science
+。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/%E3%80%90-ge-ren-jian-jie-%E3%80%91Fontsize%27s%20Page.html</guid><pubDate>Tue, 29 Apr 2025 08:49:33 +0000</pubDate></item><item><title>PINNs论文</title><link>https://321Fontsize.github.io/post/PINNs-lun-wen.html</link><description>### AI4Science
 
 - Wang H, Fu T, Du Y, Gao W, Huang K, Liu Z, Chandak P, Liu S, Van Katwyk P, Deac A, Anandkumar A, Bergen K, Gomes CP, Ho S, Kohli P, Lasenby J, Leskovec J, Liu TY, Manrai A, Marks D, Ramsundar B, Song L, Sun J, Tang J, Velickovic P, Welling M, Zhang L, Coley CW, Bengio Y, Zitnik M. **Scientific discovery in the age of artificial intelligence**. Nature 2023, 620(7972): 47-60. :mag:【AI4Science】科学发现综述
 - Karniadakis GE, Kevrekidis IG, Lu L, Perdikaris P, Wang S, Yang L. **Physics-informed machine learning**. Nature Reviews Physics 2021.
@@ -28,8 +26,6 @@ My primary interests lie in:
 
 - Lu L, Jin P, Pang G, Zhang Z, Karniadakis GE. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators**. Nature Machine Intelligence 2021, 3(3): 218-229. :mag:【DeepONet】结构
 - Li Z, Kovachki N, Azizzadenesheli K, Liu B, Bhattacharya K, Stuart A, Anandkumar A. **Fourier neural operator for parametric partial differential equations**. arXiv preprint arXiv:201008895 2020. :mag:傅里叶神经算子【FNO】结构
-
-# 已看论文
 
 ### 本科毕设论文阅读
 
