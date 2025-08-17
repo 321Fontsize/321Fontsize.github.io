@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Thu, 12 Jun 2025 16:29:54 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>科研-文献检索</title><link>https://321Fontsize.github.io/post/ke-yan---wen-xian-jian-suo.html</link><description># 0. 文献检索的作用
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Sun, 17 Aug 2025 09:46:02 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>科研-文献检索</title><link>https://321Fontsize.github.io/post/ke-yan---wen-xian-jian-suo.html</link><description># 0. 文献检索的作用
 
 - 避免重复劳动，找到别人已经做过的工作；
 - 了解问题的起源、发展与现状；
@@ -44,17 +44,16 @@
 
 :one:
 
-- [ ] 《复明症漫记》、《献给阿尔吉侬的花束》《局外人》、《树上的男爵》、《一个叫欧维的男人决定去死》
+- [ ] 《局外人》、《一个叫欧维的男人决定去死》、《人性的枷锁》
 - [ ] 《许三观卖血记》、《四世同堂》
 
 :two:
 
-- [ ] 《魔戒》《暮光之城》、《冰与火之歌》（尚未完结）
+- [ ] 《暮光之城》
 
 ## 2025
-
-- 《失明症漫记》-若泽•萨拉马戈（范维信译，南海出版公司） :white_check_mark: 06/07
-  - 在某个红绿灯前，发生过无数次的等待像往常一样出现。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/yue-du-ji-lu---shi-ti-shu.html</guid><pubDate>Sun, 11 May 2025 08:24:30 +0000</pubDate></item><item><title>科研-管理&amp;阅读论文</title><link>https://321Fontsize.github.io/post/ke-yan---guan-li-%26-yue-du-lun-wen.html</link><description># 管理
+- 《树上的男爵》-[意大利]伊塔洛•卡尔维诺（吴正仪，译林出版社） :white_check_mark: 08/01
+  - 十二岁的柯西莫，因为无法忍受姐姐做的蜗牛餐，愤然住到树上，此后他再也没有将双脚触地，他是当之无愧的树上国王。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/yue-du-ji-lu---shi-ti-shu.html</guid><pubDate>Sun, 11 May 2025 08:24:30 +0000</pubDate></item><item><title>科研-管理&amp;阅读论文</title><link>https://321Fontsize.github.io/post/ke-yan---guan-li-%26-yue-du-lun-wen.html</link><description># 管理
 
 参考知网文献导出（导出与分析 :arrow_right: 导出文献 :arrow_right: 自定义 :arrow_right: 下载xls），在某个时间段内，我们看了若干篇论文，可以将其按如下方式汇总：
 
