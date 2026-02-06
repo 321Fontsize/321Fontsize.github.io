@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Mon, 19 Jan 2026 05:02:15 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>科研-文献检索</title><link>https://321Fontsize.github.io/post/ke-yan---wen-xian-jian-suo.html</link><description># 0. 文献检索的作用
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Fri, 06 Feb 2026 13:39:46 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>科研-文献检索</title><link>https://321Fontsize.github.io/post/ke-yan---wen-xian-jian-suo.html</link><description># 0. 文献检索的作用
 
 - 避免重复劳动，找到别人已经做过的工作；
 - 了解问题的起源、发展与现状；
@@ -42,15 +42,14 @@
 
 。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/yue-du-ji-lu---wang-wen.html</guid><pubDate>Mon, 19 May 2025 07:45:18 +0000</pubDate></item><item><title>阅读记录-实体书</title><link>https://321Fontsize.github.io/post/yue-du-ji-lu---shi-ti-shu.html</link><description>To Read List
 
-- [ ] 《一个叫欧维的男人决定去死》
 - [ ] 《局外人》
 - [ ] 《许三观卖血记》
 - [ ] 《暮光之城》
 
-## 2026：1
+## 2026：2
 
-- 《四世同堂》[中]老舍 :white_check_mark: 01/18
-  - 从高中开始，我便听过这本书的名字，但是迟迟没有去看。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/yue-du-ji-lu---shi-ti-shu.html</guid><pubDate>Sun, 11 May 2025 08:24:30 +0000</pubDate></item><item><title>科研-管理&amp;阅读论文</title><link>https://321Fontsize.github.io/post/ke-yan---guan-li-%26-yue-du-lun-wen.html</link><description># 管理
+- 《一个叫欧维的男人决定去死》-[瑞典]弗雷德里克·巴克曼（宁蒙译） :white_check_mark: 02/06
+  - 寒假开始看的一本书，在番茄上看完的。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/yue-du-ji-lu---shi-ti-shu.html</guid><pubDate>Sun, 11 May 2025 08:24:30 +0000</pubDate></item><item><title>科研-管理&amp;阅读论文</title><link>https://321Fontsize.github.io/post/ke-yan---guan-li-%26-yue-du-lun-wen.html</link><description># 管理
 
 参考知网文献导出（导出与分析 :arrow_right: 导出文献 :arrow_right: 自定义 :arrow_right: 下载xls），在某个时间段内，我们看了若干篇论文，可以将其按如下方式汇总：
 
