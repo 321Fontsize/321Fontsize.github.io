@@ -1,2 +1,107 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:25:57 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Fontsize's Blog</title><link>https://321Fontsize.github.io</link><description>Welcome to Fontsize's blog!</description><copyright>Fontsize's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://321Fontsize.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:49:48 +0000</lastBuildDate><managingEditor>Fontsize's Blog</managingEditor><ttl>60</ttl><webMaster>Fontsize's Blog</webMaster><item><title>科研-文献检索</title><link>https://321Fontsize.github.io/post/ke-yan---wen-xian-jian-suo.html</link><description># 0. 文献检索的作用
+
+- 避免重复劳动，找到别人已经做过的工作；
+- 了解问题的起源、发展与现状；
+- 明白哪些方法有效、哪些“坑”需规避；
+- 看懂顶级期刊论文里的专业术语和研究套路。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/ke-yan---wen-xian-jian-suo.html</guid><pubDate>Thu, 12 Jun 2025 11:56:49 +0000</pubDate></item><item><title>阅读记录-网文</title><link>https://321Fontsize.github.io/post/yue-du-ji-lu---wang-wen.html</link><description>## Current
+
+《我不是戏神》
+
+## 2025
+
+- 《剑来》-烽火戏诸侯 05/17
+
+## 2024
+
+- 《一世之尊》-爱潜水的乌贼
+- 《十日终焉》-杀虫队队员
+- 《规则怪谈：开局拔了老头氧气管》：一般般，泡面文
+- 《我在精神病院学斩神》-三九音域
+- 《异兽迷城》-彭湃
+- 《传说管理局》-杀虫队队员
+- 《大王饶命》-会说话的肘子
+
+## 2023 --&gt; 2021
+
+诡秘之主、大奉打更人、惊悚乐园
+
+第一序列、长夜余火、宿命之环（弃）
+
+遮天
+
+## Earlier
+
+斗罗大陆(1/2/3)、天珠变、神印王座
+
+斗破苍穹、武动乾坤、大主宰（弃）、元尊
+
+无尽丹田
+
+完美世界
+
+。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/yue-du-ji-lu---wang-wen.html</guid><pubDate>Mon, 19 May 2025 07:45:18 +0000</pubDate></item><item><title>阅读记录-实体书</title><link>https://321Fontsize.github.io/post/yue-du-ji-lu---shi-ti-shu.html</link><description>To Read List
+
+- [ ] 《许三观卖血记》
+- [ ] 《暮光之城》
+
+## 2026：5
+
+- 《百年孤独》-[哥伦比亚]加西亚·马尔克斯（范晔译） :white_check_mark: 03/01
+  - 有溺水者在先，并且家里刚好有百年孤独的实体书，我就决定把寒假剩余的读书时间安排给它了。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/yue-du-ji-lu---shi-ti-shu.html</guid><pubDate>Sun, 11 May 2025 08:24:30 +0000</pubDate></item><item><title>科研-管理&amp;阅读论文</title><link>https://321Fontsize.github.io/post/ke-yan---guan-li-%26-yue-du-lun-wen.html</link><description># 管理
+
+参考知网文献导出（导出与分析 :arrow_right: 导出文献 :arrow_right: 自定义 :arrow_right: 下载xls），在某个时间段内，我们看了若干篇论文，可以将其按如下方式汇总：
+
+作者 + 题名 + 关键词 + 摘要
+
+# 阅读
+
+每一篇论文做好读书笔记。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/ke-yan---guan-li-%26-yue-du-lun-wen.html</guid><pubDate>Tue, 29 Apr 2025 09:58:36 +0000</pubDate></item><item><title>科研-科研习惯</title><link>https://321Fontsize.github.io/post/ke-yan---ke-yan-xi-guan.html</link><description>日常：
+
+1. 每周想一些ideas，和导师以及身边的同学讨论这些ideas好或者不好。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/ke-yan---ke-yan-xi-guan.html</guid><pubDate>Tue, 29 Apr 2025 09:54:17 +0000</pubDate></item><item><title>两相流学习</title><link>https://321Fontsize.github.io/post/liang-xiang-liu-xue-xi.html</link><description>斯蒂芬问题（Stefan problems）https://mp.weixin.qq.com/s/La1QzH1U5TKWR6iBh5gYFA  是两相流的一类模型。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/liang-xiang-liu-xue-xi.html</guid><pubDate>Tue, 29 Apr 2025 09:47:26 +0000</pubDate></item><item><title>个人简介-Fontsize's Page</title><link>https://321Fontsize.github.io/post/ge-ren-jian-jie--Fontsize%27s%20Page.html</link><description>Welcome to my page! 🍏 
+
+My primary interests lie in:
+
+- Physics-informed machine learning
+- ...
+
+。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/ge-ren-jian-jie--Fontsize%27s%20Page.html</guid><pubDate>Tue, 29 Apr 2025 08:49:33 +0000</pubDate></item><item><title>PINNs论文</title><link>https://321Fontsize.github.io/post/PINNs-lun-wen.html</link><description># AI4Science
+
+- [ ] Wang H, Fu T, Du Y, Gao W, Huang K, Liu Z, Chandak P, Liu S, Van Katwyk P, Deac A, Anandkumar A, Bergen K, Gomes CP, Ho S, Kohli P, Lasenby J, Leskovec J, Liu TY, Manrai A, Marks D, Ramsundar B, Song L, Sun J, Tang J, Velickovic P, Welling M, Zhang L, Coley CW, Bengio Y, Zitnik M. **Scientific discovery in the age of artificial intelligence**. Nature 2023, 620(7972): 47-60. 🔍【AI4Science】科学发现综述
+- [ ] Karniadakis GE, Kevrekidis IG, Lu L, Perdikaris P, Wang S, Yang L. **Physics-informed machine learning**. Nature Reviews Physics 2021.
+
+### PINNs
+
+- [ ] Wang S, Sankaran S, Perdikaris P. **Respecting causality is all you need for training physics-informed neural networks**. arXiv preprint arXiv:220307404 2022. 🔍时序因果结构引入了数值方法的分步思想
+
+- [ ] Wang S, Yu X, Perdikaris P. **When and why PINNs fail to train: A neural tangent kernel perspective**. Journal of Computational Physics 2022, 449: 110768. 🔍神经正切核，PINNs失效
+
+### 神经算子结构网络
+
+- [ ] Lu L, Jin P, Pang G, Zhang Z, Karniadakis GE. **Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators**. Nature Machine Intelligence 2021, 3(3): 218-229. 🔍【DeepONet】结构
+- [ ] Li Z, Kovachki N, Azizzadenesheli K, Liu B, Bhattacharya K, Stuart A, Anandkumar A. **Fourier neural operator for parametric partial differential equations**. arXiv preprint arXiv:201008895 2020. 🔍傅里叶神经算子【FNO】结构
+
+# 本科毕设论文阅读
+
+这部分论文主要是在完成本科毕设的过程中阅读的。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/PINNs-lun-wen.html</guid><pubDate>Tue, 29 Apr 2025 08:43:34 +0000</pubDate></item><item><title>计算+物理 期刊</title><link>https://321Fontsize.github.io/post/ji-suan-%2B-wu-li-%20-qi-kan.html</link><description># 期刊/杂志
+
+- :one:[JCP](https://www.sciencedirect.com/journal/journal-of-computational-physics): Journal of Computational，计算物理杂志 
+  - 激波捕捉方法中的TVD、ENO、WENO格式
+  - 迎风格式通量计算方法中的Roe, van Leer, AUSM系列格式
+  - 非结构网格上的高精度算法DG、SV、SD等
+  - 两相流VOF
+
+- :one:[CMAME](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering): Computer Methods in Applied Mechanics and Engineering，应用力学与工程中的计算机方法
+- :question:[SIAM]((https://www.siam.org/)): Society for Industrial and Applied Mathematics，工业与应用数学学会
+  - [SISC](https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/): SIAM Journal on Scientific Computing
+- :question:[Journal of Scientific Computing](https://link.springer.com/journal/10915)：科学计算杂志
+- :question:[JFM](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics): Journal of Fluid Mechanics，流体力学杂志
+  - JFM和Physics of fluids更侧重流动机理，计算类的文章少
+- :question:PR系列是指Physical Review系列的期刊，这是美国物理学会（American Physical Society, APS）出版的一系列物理学学术期刊
+  - [PRL](https://journals.aps.org/prl/): Physics Review Letters
+
+# 知乎评论
+
+## 计算流体力学的权威期刊有哪些？[^1]
+
+这一领域，排第一位的应该是JCP。</description><guid isPermaLink="true">https://321Fontsize.github.io/post/ji-suan-%2B-wu-li-%20-qi-kan.html</guid><pubDate>Tue, 29 Apr 2025 08:21:09 +0000</pubDate></item></channel></rss>
